@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "apps-moviles-ed59f": {
+      "hosting": {
+        "app": [
+          "apps-moviles-ed59f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "apps-moviles-ed59f"
+  }
+}
